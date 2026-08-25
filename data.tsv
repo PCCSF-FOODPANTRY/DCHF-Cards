@@ -1,10 +1,8 @@
-__LAST_UPDATED__    DCHF Tien Fuh Wu Way Pantry
-__LAST_UPDATED__    2026/08/24 By David Chan
-barcode lastname    firstname   notes   alternate   cardStatus
-low-15  Parish  David   Temp Alt for this client thru 8/20 approved by Susie Wong   None    Active
-een-41  Chan    Woon Yee    Temp Alt until primary is out of hospital (surgery) Chao Xian Lin   Active
-RED-21  Huang   Minjin  THIS CLIENT HAS BEEN DEACTIVATED — DO NOT SERVE AND TAKE CARD IF ANY. REFER TO FOOD BANK IF QUESTIONS   None    Inactive
-ple-24  Qiu Shu Hua Old alt has changed to a proxy. Swap card   Zhou Qunying    Active
-low-17  Mei Jing Ya Alt has changed according to PES. Please verify and swap card if needed Mei Yanqing Active
-low-24  Li  Nga Lai Alt exists according to PES. If card incorrect, swap for new one    Chui Kwok Hop   Active
-low-43  Ma  Xinyi   Alt’s last name is Man. If incorrect, submit request for name correction to PES Ma Wen Mei  Active
+barcode lastname    firstname   actionNote
+low-15  Parish  David   Temp Alt for this client thru 8/20 approved by Susie Wong
+een-41  Chan    Woon Yee    Temp Alt until primary is out of hospital (surgery)
+red-21  Huang   Minjin  THIS CLIENT HAS BEEN DEACTIVATED — DO NOT SERVE AND TAKE CARD IF ANY. REFER TO FOOD BANK IF QUESTIONS
+ple-24  Qiu Shu Hua Swap card — old alt changed to proxy
+low-17  Mei Jing Ya Alt changed according to PES — verify and swap if needed
+low-24  Li  Nga Lai Alt exists — swap card if incorrect
+low-43  Ma  Xinyi   Alt last name is Man — correct if needed

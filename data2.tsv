@@ -1,12 +1,9 @@
 __LAST_UPDATED__	PCC DCHF Pantry
-__LAST_UPDATED__	2026/11/04  Updated by David Chan
+__LAST_UPDATED__	2026/11/18  Updated by David Chan
 barcode	lastname	firstname	altlastname	altfirstname	actionNote
--00790	HO	YIMFONG			NEW CLIENT ISSUE CARD
--00796	HUANG	YASHOU			NEW CLIENT, ISSUE CARD
--00712	CHEN	MINYI	WU	YI DAN	SWAP CARD
-DCHF-00712	CHEN	MINYI	WU	YI DAN	SWAP CARD
-DCHF-00738	liang	huie			SWAP CARD
--00738	liang	huie			SWAP CARD
+-00790	HO	YIMFONG			NEW CLIENT, ISSUE CARD
+-00799	chew	ek hui			NEW CLIENT, ISSUE CARD
+-00800	law	yee sing	ye	yin ying	new client, issue new card
 -00797	chen	pei qin	wu	sheng fu	new client, issue new card
 dchf-00684	LI	JIEQING			CLIENT HAS BEEN TRANSFERRED TO CMWA
 DCHF-00623	LIU	LIDENG			CLIENT HAS BEEN TRANSFERRED TO YWAM
